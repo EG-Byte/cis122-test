@@ -1,0 +1,1 @@
+print("Hello World! Welcome to the lab 1")
